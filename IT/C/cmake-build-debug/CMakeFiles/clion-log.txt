@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Users/illya/Documents/IT/C Select CMakeLists.txt
